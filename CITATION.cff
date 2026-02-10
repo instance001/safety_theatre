@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it."
+title: "Safety Theatre and the Suppression of Agency: How Risk Discourse Becomes a Control Mechanism"
+version: 0.1.0
+date-released: 2026-02-10
+license: AGPL-3.0-only
+url: "https://github.com/instance001/safety_theatre"
+repository-code: "https://github.com/instance001/safety_theatre"
+authors:
+  - family-names: "Paterson"
+    given-names: "Anthony"
+    affiliation: "Fractal Media Infrastructure (FMI)"
+keywords:
+  - safety theatre
+  - agency
+  - risk governance
+  - institutional design
+  - competence
+  - decision-making
+preferred-citation:
+  type: article
+  title: "Safety Theatre and the Suppression of Agency: How Risk Discourse Becomes a Control Mechanism"
+  year: 2026
+  authors:
+    - family-names: "Paterson"
+      given-names: "Anthony"

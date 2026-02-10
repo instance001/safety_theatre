@@ -1,0 +1,37 @@
+# Safety Theatre and the Suppression of Agency
+
+This repository contains a preprint-length philosophy paper (plus companion materials) arguing that a growing class of “safety” mechanisms function less as harm-reduction tools and more as control mechanisms that constrain discretionary judgment and deskill agents.
+
+Author: **Anthony Paterson** (Fractal Media Infrastructure (FMI))
+
+## What’s here
+
+- Main paper (academic preprint)
+  - `papers/safety-theatre-agency.md`
+  - `papers/safety-theatre-agency.tex`
+- AI spin-off paper (application of the framework)
+  - `papers/ai-safety-first-governance.md`
+  - `papers/ai-safety-first-governance.tex`
+- References (shared)
+  - `papers/references.bib`
+- Submission + PhilArchive/PhilPapers packaging notes
+  - `docs/submission.md`
+- PhilArchive copy/paste metadata
+  - `metadata/philarchive.md`
+- Companion benchmark framework (optional)
+  - `asewb/` (Agency Suppression Early Warning Benchmark)
+
+## License
+
+Unless otherwise noted, this repository is licensed under AGPL-3.0-only (see `LICENSE`).
+
+## Build PDFs
+
+Prebuilt PDFs are available in `dist/`.
+
+If you have a LaTeX distribution installed (MiKTeX or TeX Live), build via:
+
+- `powershell -ExecutionPolicy Bypass -File scripts/build.ps1 -Paper safety-theatre-agency`
+- `powershell -ExecutionPolicy Bypass -File scripts/build.ps1 -Paper ai-safety-first-governance`
+
+Outputs go to `dist/`.
