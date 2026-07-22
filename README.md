@@ -12,6 +12,9 @@ Author: **Anthony Paterson** (Fractal Media Infrastructure (FMI))
 - AI spin-off paper (application of the framework)
   - `papers/ai-safety-first-governance.md`
   - `papers/ai-safety-first-governance.tex`
+- Newer paired incident-report set on AI-assisted technical review
+  - `papers/claim-action-divergence.md`
+  - `docs/claim-action-divergence-plain-language.md`
 - References (shared)
   - `papers/references.bib`
 - Submission + PhilArchive/PhilPapers packaging notes

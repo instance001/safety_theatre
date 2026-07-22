@@ -25,4 +25,13 @@ This guide exists to reduce predictable misreadings.
 2. `docs/public-essay.md` (short derivative)
 3. `papers/ai-safety-first-governance.md` (domain application)
 4. `asewb/` (operational benchmark, if useful)
+5. `papers/claim-action-divergence.md` (newer incident-report white paper)
+6. `docs/claim-action-divergence-plain-language.md` (plain-language companion)
+
+## Newer incident-report pair
+
+The claim-action divergence materials are a later, paired document set. They do not
+replace the older safety-theatre papers or ASEWB framework; they apply related concerns
+to a concrete AI-assisted technical-review incident involving claim scope, evidence
+substitution, toolchain attribution, and model self-audit limits.
 

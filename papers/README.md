@@ -4,6 +4,7 @@ This folder contains the papers in both Markdown (easy to read/edit) and LaTeX (
 
 - Main paper: `papers/safety-theatre-agency.*`
 - AI spin-off: `papers/ai-safety-first-governance.*`
+- Newer incident-report white paper: `papers/claim-action-divergence.md`
 - Shared bibliography: `papers/references.bib`
 
 ## Build
