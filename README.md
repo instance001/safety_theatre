@@ -4,6 +4,8 @@ This repository contains a preprint-length philosophy paper (plus companion mate
 
 Author: **Anthony Paterson** (Fractal Media Infrastructure (FMI))
 
+Philpapers mirror: https://philpapers.org/rec/PATSTA-5
+
 ## What’s here
 
 - Main paper (academic preprint)
