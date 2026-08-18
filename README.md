@@ -1,6 +1,6 @@
 # Safety Theatre and the Suppression of Agency
 
-This repository contains a preprint-length philosophy paper (plus companion materials) arguing that a growing class of “safety” mechanisms function less as harm-reduction tools and more as control mechanisms that constrain discretionary judgment and deskill agents.
+This repository contains a preprint-length philosophy paper (plus companion materials) arguing that a growing class of “safety” mechanisms function less as harm-reduction tools and more as control mechanisms that constrain discretionary judgment and deskill actors.
 
 Author: **Anthony Paterson** (Fractal Media Infrastructure (FMI))
 
